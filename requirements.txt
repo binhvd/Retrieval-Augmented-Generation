@@ -1,0 +1,7 @@
+PyPDF2
+streamlit
+langchain
+langchain_openai
+langchain_community
+faiss-cpu
+PyCryptodome
